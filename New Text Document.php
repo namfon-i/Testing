@@ -1,3 +1,4 @@
-<?php phpinfo(); ?>
-//Craeted by Namfon // 
-//Date 29/1/2557//
+<?php
+phpinfo();
+echo '<p>My name is Nattha Thongda</p>';
+?>
